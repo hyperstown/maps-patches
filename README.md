@@ -46,8 +46,21 @@ broken app if a hook cannot be found.
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
+> **[v1.0.0](https://github.com/hyperstown/maps-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+<details open>
+<summary>📦 Google Maps&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
 
-The patch list is generated with the first release.
+**🎯 Supported versions:**
+
+| 26.42.02.997557324 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [GmsCore support](#gmscore-support) | Allows Google Maps to run without root and without Google Play services, by using MicroG-RE under a different package name. | • Package name |
+
+</details>
 
 <!-- PATCHES_END -->
 
